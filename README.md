@@ -1,18 +1,22 @@
-# AI-Studio-项目标题
-> 一个好的标题会让你的开源项目发挥更大的价值，想不出好的名字也不用担心，起名时就统一使用AIStudio-xxx做开头吧~
+1.训练脚本/代码:main_trian.sh 训练时长3.5h左右  
+如需运行请在终端输入: sh ./work/main_train.sh
 
-## 项目描述
-> 此处可以简要描述项目的“发家史”，例如它是做什么的？它有什么特点？
+2.测试脚本/代码:main_test.sh.  预测时长20min左右 
+在work/log/dev_predcit.log路径可查看预测dev精度日志
+在work/prediction_result路径可查看最终预测结果
+如需运行请在终端输入:sh ./work/main_test.sh
 
-## 项目结构
-> 一目了然的项目结构能帮助更多人了解，目录树以及设计思想都很重要~
-```
--|data
--|work
--README.MD
--xxx.ipynb
-```
-## 使用方式
-> 相信你的Fans已经看到这里了，快告诉他们如何快速上手这个项目吧~  
-A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)  
-B：此处由项目作者进行撰写使用方式。
+3.参考链接: 
+以2019年数据智能创新应用大赛——基于Adversarial Attack的问题等价性判别比赛为背景https://github.com/activemodest/DIAC
+
+gaiic2021-track3-小布助手对话短文本语义匹配复赛rank3、决赛rank4
+https://github.com/daniellibin/gaiic2021_track3_querySim
+
+百度LAC词性开源：https://github.com/baidu/lac
+
+百度DDParser依存关系开源：https://github.com/baidu/DDParser
+
+【注意】
+1.本方案在paddle ai studio实现，若需复现，请点击：项目“2021 CCF BDCI 千言-问题匹配鲁棒性评测-第5名方案”共享链接(有效期三天)：https://aistudio.baidu.com/studio/project/partial/verify/2487202/9125855e298c4322a9802f54585770d8
+
+2.代码详情结构和设计请下载work/Readme.pdf、work/#富婆来相亲#技术方案.pdf查看。
