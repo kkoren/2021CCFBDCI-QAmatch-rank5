@@ -27,4 +27,3 @@ https://github.com/daniellibin/gaiic2021_track3_querySim
        |-- OPPO
        |-- test_B_1118.tsv
 3.代码详情结构和设计请下载work/Readme.pdf、work/#富婆来相亲#技术方案.pdf查看。
-若在复现过程中若遇到任何问题，可电话联系：18915567597，感谢！
