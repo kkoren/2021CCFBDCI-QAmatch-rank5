@@ -17,6 +17,4 @@ https://github.com/daniellibin/gaiic2021_track3_querySim
 百度DDParser依存关系开源：https://github.com/baidu/DDParser
 
 【注意】
-1.本方案在paddle ai studio实现，若需复现，请点击：项目“2021 CCF BDCI 千言-问题匹配鲁棒性评测-第5名方案”共享链接(有效期三天)：https://aistudio.baidu.com/studio/project/partial/verify/2487202/9125855e298c4322a9802f54585770d8
-
-2.代码详情结构和设计请下载work/Readme.pdf、work/#富婆来相亲#技术方案.pdf查看。
+代码详情结构和设计请下载work/Readme.pdf、work/#富婆来相亲#技术方案.pdf查看。
